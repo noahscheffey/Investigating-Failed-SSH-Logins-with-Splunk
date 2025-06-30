@@ -1,7 +1,7 @@
 <h1>Investigating Failed SSH Logins with Splunk</h1>
 
 <h2>Objective:</h2>
-To identify potential security issues on the Buttercup Games mail server by analyzing failed SSH login attempts for the root account using Splunk. This demonstrates the use of Splunk for log analysis and security monitoring.
+To identify potential security issues on a mail server by analyzing failed SSH login attempts for the root account using Splunk. This demonstrates the use of Splunk for log analysis and security monitoring.
 
 <h2>Procedure:</h2>
 
